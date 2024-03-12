@@ -34,6 +34,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_recommendations_heading": "You may also like",
         "related_count": 4,
@@ -42,12 +43,14 @@
     },
     "recently-viewed": {
       "type": "recently-viewed",
+      "disabled": true,
       "settings": {
         "recent_count": 5
       }
     },
     "collection-return": {
       "type": "collection-return",
+      "disabled": true,
       "settings": {
       }
     }
