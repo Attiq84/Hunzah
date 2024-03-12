@@ -1,5 +1,69 @@
 {
   "sections": {
+    "slideshow_G6Uz7T": {
+      "type": "slideshow",
+      "blocks": {
+        "image_6dHhbG": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Lgp9YH": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_6dHhbG",
+        "image_Lgp9YH"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_APeGUA": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "163341391777a7c1ee": {
       "type": "newsletter",
       "blocks": {
@@ -17,14 +81,16 @@
         "image_width": "33",
         "image_mask": "none",
         "image_position": "right",
-        "color_background": "#1b1f23",
-        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "color_text": "#000000",
         "top_padding": true,
         "bottom_padding": true
       }
     }
   },
   "order": [
+    "slideshow_G6Uz7T",
+    "featured_collection_APeGUA",
     "163341391777a7c1ee"
   ]
 }
