@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Impulse",
-    "theme_author": "Archetype Themes",
-    "theme_version": "7.4.1",
-    "theme_documentation_url": "https://archetypethemes.co/blogs/impulse",
-    "theme_support_url": "https://archetypethemes.co/pages/support#impulse"
+    "theme_name": "Dawn",
+    "theme_version": "12.0.0",
+    "theme_author": "Shopify",
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.colors.name",
