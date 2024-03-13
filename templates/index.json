@@ -155,11 +155,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
+            "image_mask": "rounded",
+            "image_width": 150,
+            "title": "SATISFACTION GUARANTEE",
+            "text": "<p>We Stand by our high quality products and your satisfaction is guaranteed.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -167,11 +167,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
+            "image_mask": "rounded",
+            "image_width": 150,
+            "title": "SECURE CHECKOUT",
+            "text": "<p>Pay with World's Most popular and secure payment methods.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -179,11 +179,11 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
+            "image_mask": "rounded",
+            "image_width": 150,
+            "title": "GREAT VALUE",
+            "text": "<p>We offer competitive prices on our all exclusive products.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
