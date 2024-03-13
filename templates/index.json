@@ -115,8 +115,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled-2_3887a4bc-85b2-4f32-9cd0-b5c1630a0bc1.png",
             "image_mask": "rounded",
-            "image_width": 150,
+            "image_width": 110,
             "title": "SATISFACTION GUARANTEE",
             "text": "<p>We Stand by our high quality products and your satisfaction is guaranteed.<\/p>",
             "button_label": "",
@@ -127,8 +128,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/oie_transparent_2_180x_cea85e3c-3357-4868-875e-abdf061ae524.png",
             "image_mask": "rounded",
-            "image_width": 150,
+            "image_width": 110,
             "title": "SECURE CHECKOUT",
             "text": "<p>Pay with World's Most popular and secure payment methods.<\/p>",
             "button_label": "",
