@@ -7,19 +7,88 @@
           "type": "price",
           "settings": {
           }
+        },
+        "separator_3M3wjj": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker_kQxN8q": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status_yqPg3q": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "quantity_selector_xFJWyC": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "description_M3jNcR": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "buy_buttons_QXh6yD": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "tab_fy4REN": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact_8cyWqV": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share_QxN9Kw": {
+          "type": "share",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "price"
+        "price",
+        "separator_3M3wjj",
+        "variant_picker_kQxN8q",
+        "inventory_status_yqPg3q",
+        "quantity_selector_xFJWyC",
+        "description_M3jNcR",
+        "buy_buttons_QXh6yD",
+        "tab_fy4REN",
+        "contact_8cyWqV",
+        "share_QxN9Kw"
       ],
       "settings": {
         "sku_enable": false,
         "image_position": "left",
         "image_size": "medium",
         "product_zoom_enable": true,
-        "thumbnail_position": "beside",
+        "thumbnail_position": "below",
         "thumbnail_height": "flexible",
-        "thumbnail_arrows": false,
+        "thumbnail_arrows": true,
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
@@ -34,7 +103,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "product_recommendations_heading": "You may also like",
         "related_count": 4,
