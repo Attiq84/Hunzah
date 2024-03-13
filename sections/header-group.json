@@ -4,6 +4,19 @@
   "sections": {
     "announcement": {
       "type": "announcement",
+      "blocks": {
+        "announcement_3PWcgT": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our Store",
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_3PWcgT"
+      ],
       "settings": {
         "announcement_compact": true
       }
