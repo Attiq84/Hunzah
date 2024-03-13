@@ -47,7 +47,7 @@
     "icon_linecaps": "round",
     "quick_shop_enable": true,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "landscape",
+    "product_grid_image_size": "natural",
     "product_hover_image": false,
     "collection_grid_style": "overlaid",
     "collection_grid_shape": "portrait",
