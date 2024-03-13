@@ -69,6 +69,7 @@
     "text_and_image_RfDxrF": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/POM-T-shirt1_720x_f0839ac9-2e97-439a-ae12-8f41deff2350.webp",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -89,6 +90,7 @@
     "text_and_image_nqw9YH": {
       "type": "text-and-image",
       "settings": {
+        "image": "shopify:\/\/shop_images\/stay_unafraid_hoodie_black_720x_4c27f773-ef0c-4c7b-9c8f-911a380b3934.webp",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
