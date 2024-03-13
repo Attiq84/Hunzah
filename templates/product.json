@@ -22,6 +22,12 @@
             "color_swatches": false
           }
         },
+        "size_chart_UdNhGi": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": ""
+          }
+        },
         "inventory_status_yqPg3q": {
           "type": "inventory_status",
           "settings": {
@@ -73,6 +79,7 @@
         "price",
         "separator_3M3wjj",
         "variant_picker_kQxN8q",
+        "size_chart_UdNhGi",
         "inventory_status_yqPg3q",
         "quantity_selector_xFJWyC",
         "description_M3jNcR",
