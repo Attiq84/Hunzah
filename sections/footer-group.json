@@ -21,16 +21,16 @@
         "menu_izNeq8": {
           "type": "menu",
           "settings": {
-            "show_footer_title": false,
-            "menu": "footer",
+            "show_footer_title": true,
+            "menu": "about-hunzah",
             "container_width": 22
           }
         },
         "menu_kBbCD3": {
           "type": "menu",
           "settings": {
-            "show_footer_title": false,
-            "menu": "footer",
+            "show_footer_title": true,
+            "menu": "policies",
             "container_width": 20
           }
         },
