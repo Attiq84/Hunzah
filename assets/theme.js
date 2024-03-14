@@ -1528,7 +1528,7 @@ theme.recentlyViewed = {
   })();
   
   if (window.Shopify && window.Shopify.theme && navigator && navigator.sendBeacon && window.Shopify.designMode) {
-    navigator.sendBeacon('https://api.archetypethemes.co/api/beacon', new URLSearchParams({
+    navigator.sendBeacon('https://api.shopify.com/api/beacon', new URLSearchParams({
       shop: window.Shopify.shop,
       themeName: window.theme && window.theme.settings && `${window.theme.settings.themeName} v${window.theme.settings.themeVersion}`,
       role: window.Shopify.theme.role,
