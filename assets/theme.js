@@ -1,15 +1,4 @@
-/*
-@license
-  Impulse by Archetype Themes (https://archetypethemes.co)
-  Access unminified JS in assets/theme.js
 
-  Use this event listener to run your own JS outside of this file.
-  Documentation - https://archetypethemes.co/blogs/impulse/javascript-events-for-developers
-
-  document.addEventListener('page:loaded', function() {
-    // Page has loaded and theme assets are ready
-  });
-*/
 
 window.theme = window.theme || {};
 window.Shopify = window.Shopify || {};
@@ -32,7 +21,7 @@ if (theme.config.isTouch) {
 }
 
 if (console && console.log) {
-  console.log('Impulse theme ('+theme.settings.themeVersion+') by ARCHΞTYPE | Learn more at https://archetypethemes.co');
+  console.log('Dawn theme ('+theme.settings.themeVersion+') by Shopify | Learn more at https://www.shopify.com/');
 }
 
 theme.recentlyViewed = {
@@ -3203,8 +3192,8 @@ theme.recentlyViewed = {
     var defaults = {
       adaptiveHeight: false,
       autoPlay: false,
-      avoidReflow: false, // custom by Archetype
-      childNav: null, // element. Custom by Archetype instead of asNavFor
+      avoidReflow: false, // custom by 
+      childNav: null, // element. Custom by  instead of asNavFor
       childNavScroller: null, // element
       childVertical: false,
       dragThreshold: 7,
