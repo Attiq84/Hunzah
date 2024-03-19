@@ -141,8 +141,9 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify:\/\/shop_images\/oie_transparent_2_180x_cea85e3c-3357-4868-875e-abdf061ae524.png",
             "image_mask": "rounded",
-            "image_width": 150,
+            "image_width": 110,
             "title": "GREAT VALUE",
             "text": "<p>We offer competitive prices on our all exclusive products.<\/p>",
             "button_label": "",
